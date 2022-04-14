@@ -6,5 +6,4 @@ if (sayi1>=sayi2) and (sayi1>=sayi3):
     print("En buyuk sayi 1 dir")
 elif (sayi2>=sayi1) and (sayi2>=sayi3):
     print("En buyuk sayi 2 dir")
-else:
-    print("En buyuk sayi 3 tur")
+
